@@ -1,2 +1,3 @@
-# html-css-alura-plus
-https://kaiquefb.github.io/html-css-alura-plus/
+# projeto-alura-plus
+
+https://kaiquefb.github.io/projeto-alura-plus/
